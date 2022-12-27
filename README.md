@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidhey012" alt="vidhey012" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@name_is_vidhey" target="blank"><img src="https://img.shields.io/twitter/follow/@name_is_vidhey?logo=twitter&style=for-the-badge" alt="@name_is_vidhey" /></a> </p>
+<p align="left"> <a href="https://twitter.com/name_is_vidhey" target="blank"><img src="https://img.shields.io/twitter/follow/name_is_vidhey?logo=twitter&style=for-the-badge" alt="@name_is_vidhey" /></a> </p>
 
 - 🔭 I’m currently working on CSP-Web [CSP-Web](https://cspweb.netlify.app/)
 
-- 🌱 I’m currently learning **Arduino, IOT, Linux tools**
+- 🌱 I’m currently learning **Arduino, IoT, Linux tools**
 
 - 👯 I’m looking to collaborate on E-Progress website [LVN E-Progress](https://lvn.netlify.app/)
 
