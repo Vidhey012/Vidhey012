@@ -7,23 +7,23 @@
 
 <p align="left"> <a href="https://twitter.com/name_is_vidhey" target="blank"><img src="https://img.shields.io/twitter/follow/name_is_vidhey?logo=twitter&style=for-the-badge" alt="@name_is_vidhey" /></a> </p>
 
-- 🔭 I’m currently working on CSP-Web [CSP-Web](https://cspweb.netlify.app/)
+- 🔭 I’m currently working on [TronTech-Labs](http://trontechlabs.netlify.app/)
 
 - 🌱 I’m currently learning **Arduino, IoT, Linux tools**
 
-- 👯 I’m looking to collaborate on E-Progress website [LVN E-Progress](https://lvn.netlify.app/)
+- 👯 I’m looking to collaborate on [Student Portal Website](https://github.com/Vidhey012/StudentPortal)
 
-- 🤝 I’m looking for help with Digital Electronics [Logicgates](https://vidhey-logicgates.netlify.app/)
+- 🤝 I’m looking for help with [JNTUK-Placements Website](https://github.com/Vidhey012/JNTUK_E_Placements)
 
-- 👨‍💻 All of my projects are available at [http://tiny.cc/vidhey](http://tiny.cc/vidhey)
+- 👨‍💻 All of my projects are available at my [Github](https://github.com/Vidhey012?tab=repositories)
 
-- 📝 I regularly write articles on [http://tiny.cc/vidhey](http://tiny.cc/vidhey)
+- 📝 I regularly write articles on my [Website](http://tiny.cc/vidhey)
 
 - 💬 Ask me about **Spring-mvc, javascript, postgres, apache tomcat**
 
 - 📫 How to reach me **vidhey.bhogadi2003@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Vidhey012/Resume/blob/main/Screenshot_20220822-200837_Drive.jpg](https://github.com/Vidhey012/Resume/blob/main/Screenshot_20220822-200837_Drive.jpg)
+- 📄 Know about my experiences [https://github.com/Vidhey012/Resume/blob/main/Bhogadi's%20Resume.pdf)
 
 - ⚡ Fun fact **I am interested in developing arduino projects**
 
