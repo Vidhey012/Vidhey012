@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on my [Website](http://tiny.cc/vidhey)
 
-- 💬 Ask me about anything about **Full Stack MEAN & MERN, Android App Development, Machine Learning**
+- 💬 Ask me about anything on **Full Stack MEAN & MERN, Android App Development, Machine Learning**
 
 - 📫 How to reach me **vidhey.bhogadi2003@gmail.com**
 
