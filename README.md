@@ -19,11 +19,11 @@
 
 - 📝 I regularly write articles on my [Website](http://tiny.cc/vidhey)
 
-- 💬 Ask me about **Spring-mvc, javascript, postgres, apache tomcat**
+- 💬 Ask me about anything about **Full Stack MEAN & MERN, Android App Development, Machine Learning**
 
 - 📫 How to reach me **vidhey.bhogadi2003@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Vidhey012/Resume/blob/main/Bhogadi's%20Resume.pdf)
+- 📄 Know about my experiences on my [Resume](https://github.com/Vidhey012/Resume/blob/main/Bhogadi's%20Resume.pdf)
 
 - ⚡ Fun fact **I am interested in developing arduino projects**
 
