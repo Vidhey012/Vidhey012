@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **vidhey.bhogadi2003@gmail.com**
 
-- 📄 Know about my experiences on my [Resume](https://github.com/Vidhey012/Resume/blob/main/Bhogadi's%20Resume.pdf)
+- 📄 Know about my experiences on my [Resume](https://github.com/Vidhey012/Resume/blob/main/Bhogadi's%20Resume%20New.pdf)
 
 - ⚡ Fun fact **I am interested in developing arduino projects**
 
