@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at my [Github](https://github.com/Vidhey012?tab=repositories)
 
-- 📝 I regularly write articles on my [Website](http://tiny.cc/vidhey)
+- 📝 I regularly write articles on my [Website](https://vidhey.netlify.app/)
 
 - 💬 Ask me about anything on **Full Stack MEAN & MERN, Android App Development, Machine Learning**
 
