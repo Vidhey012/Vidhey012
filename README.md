@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences on my [Resume](https://github.com/Vidhey012/Resume/blob/main/Resume_new.pdf)
 
-- ⚡ Fun fact **I am interested in developing and testing software projects**
+- ⚡ Fun fact **I am interested in developing and testing software projects**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
