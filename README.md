@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhogadi Vidhey</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate Full-Stack Developer, Quality Analyst, Machine Learning Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhey012&label=Profile%20views&color=0e75b6&style=flat" alt="vidhey012" /> </p>
 
@@ -9,23 +9,23 @@
 
 - 🔭 I’m recently worked on [TronTech-Labs](http://trontechlabs.netlify.app/), [CTRI Rajahmundry](https://ists.netlify.app/), [IAPTCPR](https://iaptcpr.netlify.app/).
 
-- 🌱 I’m currently learning **Arduino, IoT, Linux tools**
+- 🌱 I’m currently learning **Website Testing & Cyber Security** concepts.
 
 - 👯 I’m looking to collaborate on [Student Portal Website](https://github.com/Vidhey012/StudentPortal)
 
-- 🤝 I’m looking for help with [JNTUK-Placements Website](https://github.com/Vidhey012/JNTUK_E_Placements)
+- 🤝 I’m looking for help with [Vidhey-Verse](https://github.com/Vidhey012/Vidhey-Verse)
 
 - 👨‍💻 All of my projects are available at my [Github](https://github.com/Vidhey012?tab=repositories)
 
 - 📝 I regularly write articles on my [Website](https://vidhey.netlify.app/)
 
-- 💬 Ask me about anything on **Full Stack MEAN & MERN, Android App Development, Machine Learning**
+- 💬 Ask me about anything on **Full Stack MEAN & MERN, Android App Development, Machine Learning, Website Testing**.
 
 - 📫 How to reach me **vidhey.bhogadi2003@gmail.com**
 
 - 📄 Know about my experiences on my [Resume](https://github.com/Vidhey012/Resume/blob/main/Resume_new.pdf)
 
-- ⚡ Fun fact **I am interested in developing arduino projects**
+- ⚡ Fun fact **I am interested in developing and testing software projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
