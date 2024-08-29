@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/name_is_vidhey" target="blank"><img src="https://img.shields.io/twitter/follow/name_is_vidhey?logo=twitter&style=for-the-badge" alt="@name_is_vidhey" /></a> </p>
 
-- 🔭 I’m recently worked on [TronTech-Labs](http://trontechlabs.netlify.app/), [CTRI Rajahmundry](https://ists.netlify.app/), [IAPTCPR](https://iaptcpr.netlify.app/).
+- 🔭 I recently worked on [TronTech-Labs](http://trontechlabs.netlify.app/), [CTRI Rajahmundry](https://ists.netlify.app/), [IAPTCPR](https://iaptcpr.netlify.app/).
 
 - 🌱 I’m currently learning **Website Testing & Cyber Security** concepts.
 
