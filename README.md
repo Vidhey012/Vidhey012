@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhey012&label=Profile%20views&color=0e75b6&style=flat" alt="vidhey012" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidhey012" alt="vidhey012" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/name_is_vidhey" target="blank"><img src="https://img.shields.io/twitter/follow/name_is_vidhey?logo=twitter&style=for-the-badge" alt="@name_is_vidhey" /></a> </p>
 
 - 🔭 I recently worked on [TronTech-Labs](http://trontechlabs.netlify.app/), [CTRI Rajahmundry](https://ists.netlify.app/), [IAPTCPR](https://iaptcpr.netlify.app/).
