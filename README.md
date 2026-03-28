@@ -24,7 +24,7 @@
 ---
 
 <details>
-<summary><b>👇 Click to expand — About Me · Experience · Projects · Tech Stack · Stats · Awards</b></summary>
+<summary align="center"><b>👇 Click to expand — About Me · Experience · Projects · Tech Stack · Stats · Awards</b></summary>
 
 <br>
 
