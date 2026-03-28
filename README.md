@@ -178,6 +178,8 @@
 
 ## ⚙️ Tech Stack
 
+<div  align="center">
+     
 ### 💻 Languages
 
 [![Languages](https://skillicons.dev/icons?i=java,ts,js,python,c,php,html,css&theme=dark)](https://skillicons.dev)
@@ -211,6 +213,7 @@
 [![Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
 [![VS Code API](https://img.shields.io/badge/VS%20Code%20Extension%20API-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/api)
 [![Chrome API](https://img.shields.io/badge/Chrome%20Extension%20API-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/extensions/)
+</div>
 
 ---
 
