@@ -15,7 +15,7 @@
 <div align="center">
 
 <!-- capsule-render: NO & in the URL so no entity issue in HTML -->
-![Header](https://raw.githubusercontent.com/Vidhey012/Vidhey012/main/generated/banner.png)
+![Header](https://raw.githubusercontent.com/Vidhey012/Vidhey012/main/generated/header.png)
 
 <!-- Typing SVG — Markdown image syntax, NOT HTML, so & is fine here -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=860&height=65&lines=AI-Powered+Developer+Tools+Engineer+%F0%9F%9A%80;Full-Stack+%7C+Spring+Boot+%7C+React+%7C+Node.js+%E2%9A%99%EF%B8%8F;SDET+%7C+Playwright+%7C+Selenium+%7C+Cypress+%7C+BDD+%F0%9F%A7%AA;AWS+%7C+Docker+%7C+CI%2FCD+%7C+Microservices+%E2%98%81%EF%B8%8F;GitHub+Copilot+%7C+VS+Code+Extension+API+%F0%9F%A4%96)](https://git.io/typing-svg)
